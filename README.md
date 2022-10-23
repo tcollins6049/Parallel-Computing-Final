@@ -22,3 +22,5 @@ In this project we implemented matrix multiplication using OpenMP and Cuda techn
 * To run the OpenMP implementation, add the files from the matrixOpenMP folder to your directory. Make sure you are on the student2 machine and run with the command "./matrixMult".
 * To run the Cuda implementation, add the files from the matrixCuda folder to your directory. Make sure you are on the Cuda machine and run using the command "./matrixMult".
 * To see the visualizations, add the files from the graphs folder to your repository and run ompGraphs.py.
+
+---
