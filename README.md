@@ -1,5 +1,5 @@
 # Parallel-Computing-Final
-By: James Canterbury and Tyler Collins
+By: Tyler Collins and James Canterbury
 
 ---
 
